@@ -3,7 +3,7 @@
 <p align = "center">
 <img src="https://github.com/PaoAlonzo/PaoAlonzo/blob/main/Im%20Pao.gif" width="400" height="200" />
 
-### <div align="center">I'm Pao, a science and systems engineering student </div>  
+### <div align="center"> ✨I'm Pao, a Science and Systems Engineering Student✨ </div>  
   
 
 - 🔍 I’m currently learning more about my career  
