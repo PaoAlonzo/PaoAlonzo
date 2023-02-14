@@ -9,7 +9,7 @@
 - 🔍 I’m currently learning more about my career  
   
 
-- 🤍I can also be a UX/UI designer  
+- 🤍I'm also a UX/UI designer  
   
 
 - 💎I can make all the whole code shimmer  
